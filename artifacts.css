@@ -3,12 +3,15 @@
     display: inline-block;
 }
 .sub {
-    display: flex;
+    display: flex, inline-block;
     z-index: 9999;
     align-items: center;
     justify-content: center;
     text-align: center;
     flex-wrap: wrap;
+	border: none;
+	justify-content: space-between;
+	gap: 5px;
 }
 
 
