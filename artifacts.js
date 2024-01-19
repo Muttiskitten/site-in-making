@@ -30,7 +30,6 @@ for (const letter in groupedLinks) {
 
   dropdown.appendChild(dropdownContent);
 
-  document.body.appendChild(dropdown);
 }
 
 
